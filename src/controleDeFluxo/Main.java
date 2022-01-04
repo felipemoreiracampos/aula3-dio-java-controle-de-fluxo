@@ -143,7 +143,7 @@ public class Main {
     private static void switchSemana() {
 
         String dia = "mgmgjmg";
-        switch (dia){
+        switch (dia) {
             case "Segunda":
                 System.out.println(2);
                 break;
@@ -175,7 +175,7 @@ public class Main {
     private static void switchNumero() {
 
         int numero = 4;
-        switch (numero){
+        switch (numero) {
             case 1:
             case 2:
             case 3:
@@ -208,3 +208,4 @@ public class Main {
         }
     }
 }
+
